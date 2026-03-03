@@ -7,8 +7,6 @@ use App\Http\Controllers\DashboardController;
 
 Route::get('/dashboard', [DashboardController::class, 'index']);
 
-
-
 // Toggle route
 Route::get('/dashboard-toggle', function () {
     // Switch current dashboard flag
