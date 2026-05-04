@@ -472,5 +472,8 @@ PHP_Laravel12_Feature_Flags/
 
 Your PHP_Laravel12_Feature_Flags Project is now ready!
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> development
